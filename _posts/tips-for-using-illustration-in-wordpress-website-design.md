@@ -6,7 +6,7 @@ excerpt: "Using illustrations in WordPress Website Design is more than just addi
 
 coverImage: "/assets/blog/tips-for-using-illustration-in-wordpress-website-design/cover.jpg"
 
-date: "2020-03-16T05:35:07.322Z"
+date: "2025-04-15T01:35:07.322Z"
 
 author:
 
