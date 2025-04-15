@@ -4,7 +4,7 @@ title: "Tips for Using Illustration in WordPress Website Design"
 
 excerpt: "Using illustrations in WordPress Website Design is more than just adding art. It’s a creative way to engage users. Custom visuals give a site a unique look. They also help explain ideas quickly."
 
-coverImage: "/assets/blog/tips-for-using-illustration-in-wordpress-website-design/cover.jpg"
+coverImage: "/assets/blog/tips-for-using-illustration-in-wordpress-website-design/Tips for Using Illustration in WordPress Website Design.jpg"
 
 date: "2025-04-15T01:35:07.322Z"
 
@@ -16,7 +16,7 @@ author:
 
 ogImage:
 
-  url: "/assets/blog/tips-for-using-illustration-in-wordpress-website-design/cover.jpg"
+  url: "/assets/blog/tips-for-using-illustration-in-wordpress-website-design/Tips for Using Illustration in WordPress Website Design.jpg"
 
 ---
 
