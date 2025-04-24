@@ -1,0 +1,50 @@
+User-agent: *
+Allow: /
+
+User-agent: googlebot
+Allow: /
+
+User-agent: Googlebot-Image/1.0
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: facebot
+Allow: /
+
+User-agent: facebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)
+Allow: /
+
+User-agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Yahoo! Slurp
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: msnbot-media 
+Allow: /
+
+User-agent: msnbot 
+Allow: /
+
+User-agent: BingPreview
+Allow: /
